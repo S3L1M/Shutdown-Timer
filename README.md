@@ -3,3 +3,6 @@
 
 # Note
 there is an execuatable folder for click & run use
+
+# Licence
+MIT
